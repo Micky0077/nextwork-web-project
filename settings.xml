@@ -21,7 +21,7 @@
       </repository>
     </repositories>
   </profile>
-</profiles>  
+</profiles>
 
 <mirrors>
   <mirror>
@@ -31,5 +31,6 @@
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
-  
+
+
 </settings>
