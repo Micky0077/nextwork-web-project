@@ -51,6 +51,7 @@
 <body>
     <h1>Welcome to Nextwork 🌐</h1>
     <p>Your Java web app is running on AWS, deployed via CodeDeploy.</p>
+    <p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
     <a href="hello" class="button">Try Hello Servlet</a>
 
     <footer>
